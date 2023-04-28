@@ -1,0 +1,100 @@
+.background {
+  background-color: rgb(11, 11, 62);
+  width: 100%;
+  height: 2470px;
+  background-size: cover;
+  background-position: center;
+}
+.home-div {
+  background-color: rgb(233, 233, 18);
+  width: 100%;
+  height: 550px;
+}
+.section1 img {
+  width: 410px;
+  height: 630px;
+}
+.section1 {
+  padding: 5rem 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+article {
+  padding-left: 50px;
+  padding-bottom: 280px;
+}
+.article-h1 {
+  font-size: 40px;
+  color: rgb(4, 4, 59);
+  padding-left: 120px;
+}
+.article-p {
+  font-size: 20px;
+  color: rgb(4, 4, 59);
+  padding-top: 20px;
+  text-align: center;
+}
+aside p {
+  font-size: 120px;
+  color: rgb(173, 173, 142);
+  font-weight: 500;
+  padding-top: 470px;
+  position: absolute;
+  padding-left: 250px;
+}
+aside {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section2 {
+  color: aliceblue;
+  padding-left: 260px;
+  padding-top: 70px;
+}
+.section2 h1 {
+  color: rgb(173, 173, 142);
+  font-size: 115px;
+}
+.section2 h4 {
+  color: rgb(173, 173, 142);
+  font-size: 40px;
+  padding: 10px;
+}
+.section2 p {
+  color: rgb(173, 173, 142);
+  font-size: 20px;
+  text-align: center;
+  padding-right: 270px;
+  padding-bottom: 40px;
+}
+.section2 button {
+  background-color: yellow;
+  font-size: larger;
+  padding: 20px 20px;
+}
+.projects {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 160px;
+  gap: 1rem;
+  padding-bottom: 60px;
+}
+.image1 {
+  border: 1px solid black;
+}
+.image2 {
+  border: 1px solid black;
+}
+.image3 {
+  border: 1px solid black;
+}
+.btn {
+  background-color: yellow;
+  font-size: larger;
+  padding: 20px 20px;
+}
+.class-btn {
+  padding-left: 660px;
+}
